@@ -1,0 +1,67 @@
+Metadata-Version: 1.2
+Name: greenhouseapi
+Version: 0.1.0
+Summary: API that can be used to monitor the environment around the system and represent the data live using a graphical interface
+Home-page: https://github.com/finngregg/greenhouseapi
+Author: Gregg Finn
+Author-email: finngregg@gmail.com
+License: MIT license
+Description: =================
+        greenhouseapi
+        =================
+        
+        .. image:: https://img.shields.io/badge/language-python-orange.svg?style=flat-square
+             :target: #
+             :alt: Python Language
+        
+        .. image:: https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square
+             :target: #
+             :alt: Python Language
+        
+        API capable of monitoring the environment around the system and representing the data live using a graphical interface.
+        
+        To run the demonstrator, run:
+        
+            $ python3 ./monitor_api.py
+        
+        * Free software: MIT license
+        * Documentation: https://greenhouseapi.readthedocs.io.
+        
+        
+        Features
+        --------
+        
+        - Real time updates of the humidity, temperature and lighting surrounding the system
+        - Current conditions are represented graphically
+        - Easily modifiable 
+        
+        Credits
+        -------
+        
+        This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+        
+        .. _Cookiecutter: https://github.com/audreyr/cookiecutter
+        .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+        
+        
+        =======
+        History
+        =======
+        
+        0.1.0 (2020-11-06)
+        ------------------
+        
+        * First release on PyPI.
+        
+Keywords: greenhouseapi
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.5
